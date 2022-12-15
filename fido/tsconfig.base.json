@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "@fido/common-ui": ["libs/common-ui/src/index.ts"],
-      "@fido/core": ["libs/core/src/index.ts"]
+      "@fido/core": ["libs/core/src/index.ts"],
+      "@fido/theme": ["libs/theme/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
